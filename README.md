@@ -1,6 +1,6 @@
 # 🚗 **Car Rental App - Firebase Integration**
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=for-the-badge&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange?style=for-the-badge&logo=firebase) ![License]
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=for-the-badge&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange?style=for-the-badge&logo=firebase) 
 
 ### **A sleek and scalable car rental app built using Flutter and Firebase Firestore.**
 
